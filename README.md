@@ -1,3 +1,5 @@
+*(apologies for the some weird formatting, this writeup was made using Obsidian)*
+
 # Simulated Annealing
 Simulated Annealing is the process by which global optimum's can be approximated in a given function. It resembles the real-world process of annealing in metallurgy, where a heated metal is brought up to a high tempurature where larger changes are made to it's physical properties, and then back to a cooled temperature where less drastic changes are made to it's physical properties, all in a controlled manner.
 
