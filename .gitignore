@@ -1,0 +1,10 @@
+# Build
+[dD]ebug/
+
+# Project Files
+*.user
+*.sln
+*.vcxproj
+*.filters
+
+
